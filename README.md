@@ -19,13 +19,3 @@ This specialization covers:
 4) [Machine Learning With Big Data](https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/04%20-%20Machine%20Learning%20with%20Big%20Data)
 5) [Graph Analytics for Big Data](https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/05%20-%20Graph%20Analytics%20for%20Big%20Data)
 6) [Capstone](https://github.com/AlessandroCorradini/University-of-California-San-Diego-Big-Data-Specialization/tree/master/06%20-%20Big%20Data%20-%20Capstone%20Project)
-
-## Certificate of Completion
-You can see the [Certificate of Completion](https://github.com/AlessandroCorradini/Certificates/blob/master/Coursera%20-%20Big%20Data%20Specialization%20Certificate%20-%20UC%20San%20Diego.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
-
-<br/>
-
-### ⚠️ Disclaimer ⚠️
-**Please, don't fork or copy this repository.**
-
-**Big Data Specialization from University of California San Diego, is a very easy and straight forward path. You can complete it with a minimal effort.**
